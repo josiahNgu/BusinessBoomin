@@ -1,4 +1,4 @@
-# FreshBox
+# BusinessBoomin
 
 A work in progress fullstack ecommerce web application that utilizes MERN stack.
 
